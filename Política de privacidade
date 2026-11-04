@@ -1,0 +1,558 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#07111d">
+
+<title>Política de Privacidade | Eme Code</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #07111d;
+    color: #e5edf5;
+    line-height: 1.7;
+}
+
+header {
+    padding: 45px 20px;
+    text-align: center;
+    background: linear-gradient(135deg, #10243a, #07111d);
+    border-bottom: 1px solid #20364b;
+}
+
+.logo {
+    font-size: 34px;
+    font-weight: bold;
+    color: #55b9ff;
+    letter-spacing: 1px;
+}
+
+header p {
+    color: #a9bbce;
+    margin-top: 8px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 35px auto;
+    padding: 0 20px;
+}
+
+.updated {
+    background: #10243a;
+    padding: 15px 18px;
+    border-left: 4px solid #55b9ff;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    color: #c7d7e7;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 18px;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 20px;
+    color: #55b9ff;
+    margin: 32px 0 12px;
+}
+
+p {
+    margin-bottom: 14px;
+    color: #c5d0dc;
+}
+
+ul {
+    padding-left: 25px;
+    margin-bottom: 18px;
+    color: #c5d0dc;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+a {
+    color: #55b9ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.section {
+    padding-bottom: 18px;
+    border-bottom: 1px solid #1b3044;
+}
+
+footer {
+    text-align: center;
+    padding: 30px 15px;
+    margin-top: 45px;
+    border-top: 1px solid #20364b;
+    color: #879bad;
+    font-size: 14px;
+}
+
+.email {
+    display: inline-block;
+    background: #10243a;
+    padding: 12px 18px;
+    border-radius: 7px;
+    margin-top: 8px;
+}
+
+@media(max-width: 600px) {
+    header {
+        padding: 35px 15px;
+    }
+
+    .logo {
+        font-size: 29px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 19px;
+    }
+
+    .container {
+        margin-top: 25px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <div class="logo">EME CODE</div>
+    <p>Política de Privacidade</p>
+</header>
+
+<main class="container">
+
+<div class="updated">
+    <strong>Última atualização:</strong> 4 de novembro de 2026
+</div>
+
+<h1>Política de Privacidade do Eme Code</h1>
+
+<p>
+A sua privacidade é importante para nós. Esta Política de Privacidade
+explica como o aplicativo Eme Code trata informações, dados e conteúdos
+durante sua utilização.
+</p>
+
+<p>
+Ao utilizar o Eme Code, você declara estar ciente das práticas
+descritas neste documento.
+</p>
+
+<section class="section">
+
+<h2>1. Sobre o aplicativo</h2>
+
+<p>
+O Eme Code é um aplicativo de desenvolvimento que permite criar,
+editar e visualizar projetos utilizando tecnologias como HTML,
+CSS, JavaScript e XML, além de oferecer ferramentas adicionais,
+recursos de inteligência artificial e instalação de aplicativos
+por meio de widgets.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>2. Login e autenticação</h2>
+
+<p>
+O Eme Code oferece a possibilidade de autenticação utilizando
+uma conta Google por meio do Firebase Authentication.
+</p>
+
+<p>
+Durante esse processo, informações necessárias à autenticação,
+como identificador da conta, endereço de e-mail e informações
+básicas do perfil disponibilizadas pelo Google, podem ser
+processadas para permitir o funcionamento do login.
+</p>
+
+<p>
+Essas informações são tratadas pelos serviços de autenticação
+do Google Firebase, conforme suas respectivas políticas.
+</p>
+
+<p>
+Mais informações:
+<a href="https://firebase.google.com/support/privacy" target="_blank">
+Privacidade e segurança do Firebase
+</a>.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>3. Projetos e arquivos armazenados localmente</h2>
+
+<p>
+Os projetos criados ou editados no Eme Code são armazenados
+localmente no dispositivo do usuário.
+</p>
+
+<p>
+Isso inclui arquivos e conteúdos relacionados a HTML, CSS,
+JavaScript e XML.
+</p>
+
+<p>
+O usuário mantém o controle sobre seus projetos e pode
+editar, salvar ou excluir seus arquivos.
+</p>
+
+<p>
+Atualmente, o Eme Code não realiza sincronização automática
+dos projetos com o Firebase Firestore ou outro serviço de
+armazenamento em nuvem.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>4. Aplicativos instalados por widgets</h2>
+
+<p>
+O Eme Code disponibiliza um recurso que permite utilizar
+projetos como aplicativos por meio de widgets.
+</p>
+
+<p>
+Para esse funcionamento, os arquivos necessários são
+copiados e armazenados em uma pasta separada daquela
+utilizada pelo editor principal.
+</p>
+
+<p>
+Os aplicativos instalados utilizam essas cópias locais
+dos arquivos para funcionar.
+</p>
+
+<p>
+Os dados gerados durante a utilização desses aplicativos,
+incluindo informações armazenadas em arquivos JSON,
+permanecem no próprio dispositivo.
+</p>
+
+<p>
+Atualmente, esses dados não são sincronizados com
+servidores em nuvem pelo Eme Code.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>5. Recursos de inteligência artificial</h2>
+
+<p>
+O Eme Code disponibiliza recursos de inteligência artificial
+que podem ser utilizados mediante configuração de uma chave
+de API própria pelo usuário.
+</p>
+
+<p>
+Quando o usuário utiliza esses recursos, os textos, comandos
+e códigos enviados para processamento podem ser transmitidos
+ao provedor de inteligência artificial selecionado.
+</p>
+
+<p>
+Entre os provedores que podem estar disponíveis estão:
+</p>
+
+<ul>
+    <li>Google Gemini;</li>
+    <li>Groq;</li>
+    <li>OpenRouter;</li>
+    <li>Outros provedores disponibilizados no aplicativo.</li>
+</ul>
+
+<p>
+O processamento dessas informações ocorre de acordo com
+as condições, políticas de privacidade e práticas de
+tratamento de dados de cada provedor.
+</p>
+
+<p>
+O usuário é responsável pela utilização de sua própria
+chave de API e deve evitar enviar informações confidenciais,
+senhas ou dados pessoais desnecessários nas solicitações.
+</p>
+
+<p>
+O Eme Code não garante as práticas de privacidade,
+armazenamento ou retenção de dados adotadas pelos
+provedores externos.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>6. Publicidade e Google AdMob</h2>
+
+<p>
+O Eme Code pode exibir anúncios por meio do Google AdMob.
+</p>
+
+<p>
+O serviço de publicidade pode coletar e processar
+determinadas informações do dispositivo e dados
+relacionados à publicidade, conforme suas configurações
+e políticas aplicáveis.
+</p>
+
+<p>
+Essas informações podem incluir identificadores de
+publicidade, informações técnicas do dispositivo,
+dados de interação com anúncios e informações
+necessárias à prevenção de fraudes.
+</p>
+
+<p>
+O tratamento dessas informações é realizado de acordo
+com as políticas do Google.
+</p>
+
+<p>
+Mais informações:
+<a href="https://policies.google.com/privacy" target="_blank">
+Política de Privacidade do Google
+</a>.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>7. Compartilhamento de informações</h2>
+
+<p>
+O Eme Code não comercializa os projetos, códigos ou
+arquivos locais dos usuários.
+</p>
+
+<p>
+Entretanto, determinadas informações podem ser
+processadas por serviços externos necessários ao
+funcionamento dos recursos utilizados.
+</p>
+
+<p>Esses serviços incluem:</p>
+
+<ul>
+    <li>Google Firebase, para autenticação;</li>
+    <li>Google AdMob, para publicidade;</li>
+    <li>Provedores de inteligência artificial escolhidos
+    pelo usuário, para processamento de solicitações.</li>
+</ul>
+
+<p>
+Cada serviço possui suas próprias condições de uso
+e políticas de privacidade.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>8. Armazenamento e segurança</h2>
+
+<p>
+O Eme Code utiliza armazenamento local para manter
+projetos, arquivos e dados necessários ao funcionamento
+de seus recursos.
+</p>
+
+<p>
+As informações armazenadas localmente estão sujeitas
+às condições de segurança do próprio dispositivo.
+</p>
+
+<p>
+Recomendamos que o usuário mantenha seu dispositivo
+protegido e realize cópias de segurança dos arquivos
+importantes.
+</p>
+
+<p>
+Embora sejam adotadas medidas para proteger as
+informações, nenhum sistema pode garantir segurança
+absoluta contra todos os riscos.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>9. Retenção e exclusão de dados</h2>
+
+<p>
+Os projetos e arquivos armazenados localmente podem
+ser excluídos pelo próprio usuário, por meio das
+funcionalidades disponíveis ou dos recursos de
+gerenciamento de arquivos do dispositivo.
+</p>
+
+<p>
+Quanto aos dados relacionados à autenticação,
+o usuário pode solicitar informações sobre a
+exclusão de sua conta e dos dados associados
+entrando em contato pelo endereço de suporte
+informado nesta política.
+</p>
+
+<p>
+Informações eventualmente mantidas por serviços
+externos seguem as regras de retenção e exclusão
+dos respectivos provedores.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>10. Permissões do dispositivo</h2>
+
+<p>
+O aplicativo pode solicitar permissões necessárias
+ao funcionamento de seus recursos, incluindo acesso
+a arquivos e armazenamento, conexão com a internet
+e outras permissões relacionadas às funcionalidades
+utilizadas.
+</p>
+
+<p>
+As permissões são utilizadas para permitir o
+funcionamento dos recursos correspondentes.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>11. Privacidade de crianças</h2>
+
+<p>
+O Eme Code não é desenvolvido especificamente
+para crianças.
+</p>
+
+<p>
+Não coletamos intencionalmente dados pessoais de
+crianças de maneira incompatível com a legislação
+aplicável.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>12. Serviços de terceiros</h2>
+
+<p>
+O aplicativo utiliza serviços externos que possuem
+suas próprias políticas de privacidade.
+</p>
+
+<p>Consulte:</p>
+
+<ul>
+    <li>
+        <a href="https://policies.google.com/privacy" target="_blank">
+        Política de Privacidade do Google
+        </a>
+    </li>
+    <li>
+        <a href="https://firebase.google.com/support/privacy" target="_blank">
+        Privacidade do Firebase
+        </a>
+    </li>
+    <li>
+        <a href="https://openrouter.ai/privacy" target="_blank">
+        Privacidade do OpenRouter
+        </a>
+    </li>
+    <li>
+        <a href="https://groq.com/privacy-policy/" target="_blank">
+        Privacidade da Groq
+        </a>
+    </li>
+</ul>
+
+</section>
+
+<section class="section">
+
+<h2>13. Alterações nesta política</h2>
+
+<p>
+Esta Política de Privacidade poderá ser atualizada
+sempre que necessário, especialmente quando novas
+funcionalidades forem adicionadas ao aplicativo ou
+quando houver mudanças nos serviços utilizados.
+</p>
+
+<p>
+A versão atualizada será disponibilizada nesta
+mesma página, acompanhada da data da última
+atualização.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>14. Contato</h2>
+
+<p>
+Se você tiver dúvidas, solicitações ou questões
+relacionadas à privacidade e ao tratamento de
+dados, entre em contato conosco:
+</p>
+
+<div class="email">
+    <a href="mailto:cameradecasa0102@gmail.com">
+    cameradecasa0102@gmail.com
+    </a>
+</div>
+
+</section>
+
+</main>
+
+<footer>
+    <p>Eme Code © 2026</p>
+    <p>Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
